@@ -1,0 +1,61 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background: rgb(9, 9, 121);
+    background: linear-gradient(
+      25deg,
+      rgba(9, 9, 121, 1) 100%,
+      rgba(7, 146, 236, 1) 0%,
+      rgba(0, 0, 0, 1) 50%
+    );
+    color: #fff;
+  }
+  #main {
+    text-align: center;
+    padding: 2em;
+    line-height: 2em;
+  }
+  footer {
+    margin-top: 4em;
+    text-transform: uppercase;
+  }
+  ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+  }
+  #img-caption {
+    margin-top: -10px;
+    font-size: 0.9em;
+    padding: 0.8em;
+  }
+  li {
+    margin-bottom: 1em;
+  }
+  .img-div #image {
+    width: 85%;
+  }
+  #title{
+  
+  font-size: 1.6em;
+  
+  }
+  .years{
+  
+  color: lightgray;
+  font-weight: bolder;
+  
+  }
+  .first-part {
+    padding: 1.5em;
+  }
+  .first-part h2 {
+    color: aqua;
+  }
+  a {
+    text-decoration: none;
+    color: aqua;
+  }
+  #colorful {
+    color: aqua;
+  }
+  
